@@ -1,1 +1,1 @@
-.header{width:100%;height:45px;border:black 0.1em solid}.content-container{width:100%;height:300px;border:2px green solid;background-color:red}.sidebar{float:right;width:300;height:435;margin:0 5 0 5;border:solid blue 2px}
+.header{width:100%;height:45px;background-color:teal}.content-container{width:100%;height:300px;background-color:red}.sidebar{float:right;width:300;height:435;margin:0 0 0 5;background-color:blue}
